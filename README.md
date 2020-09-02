@@ -1,4 +1,4 @@
-# :musical_note: JS Clock
+# :clock4: JS Clock
 
 Designed in HTML & CSS, developed in JavaScript.
 
